@@ -1,7 +1,10 @@
 
 #### Exploit Title: WordPress Plugin Easy Testimonials Stored XSS 
+
 #### Exploit Author: ning1022
-####Plugin URI: https://goldplugins.com/our-plugins/easy-testimonials-details/
+
+#### Plugin URI: https://goldplugins.com/our-plugins/easy-testimonials-details/
+
 #### Version: 3.0.4
 
 
