@@ -138,7 +138,7 @@ Parameter: list-item[1] (POST)
  ```
  
  
- 
+  SQL Injection URL and injection parameter
  
  
 |URL |injection parameter|
@@ -156,6 +156,8 @@ Parameter: list-item[1] (POST)
 
 
 xss poc:
+
+
 
 
 
